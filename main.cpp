@@ -7,3 +7,4 @@ int main() {
 ////
 ////
 test4
+funlockfile
